@@ -1,11 +1,11 @@
-# 📊 Marketing Campaign Performance & Sales Analysis
-# 📌 Project Overview
+# Marketing Campaign Performance & Sales Analysis
+# Project Overview
 
-This project was completed as part of my internship to analyze marketing campaign data and understand how different advertising channels influence product sales.
+This project focuses on analyzing marketing campaign data to understand how different advertising channels influence product sales and overall marketing efficiency.
 
-The main goal of this project was to transform raw marketing data into meaningful business insights using Excel and Power BI and present them through an interactive dashboard.
+The objective was to transform raw marketing data into meaningful business insights using Microsoft Excel and Power BI, and present them through an interactive dashboard.
 
-# 🎯 Objectives
+# Objectives
 
 + Convert raw marketing data into analysis-ready format
 + Analyze the relationship between marketing spend and sales
@@ -14,7 +14,7 @@ The main goal of this project was to transform raw marketing data into meaningfu
 + Build a professional, business-focused dashboard
 + Generate actionable insights for decision-making
 
-# 📁 Dataset Description
+# Dataset Description
 
 The dataset contains information related to:
 
@@ -27,12 +27,12 @@ The dataset contains information related to:
 
 Initially, the dataset was not suitable for direct analysis and required multiple preprocessing steps.
 
-# 🛠 Tools Used
+# Tools Used
 
 + Microsoft Excel – Data cleaning and initial analysis
 + Power BI – Data modeling, DAX calculations, and dashboard creation
 
-# 🔄 Data Preparation & Transformation
+# Data Preparation & Transformation
 
 To prepare the dataset for analysis, the following steps were performed:
 
